@@ -1,5 +1,9 @@
 # vue-tracker-project
 
+# About
+
+This project tracks Covid Cases all around the world with API's
+
 ## Project setup
 ```
 npm install
